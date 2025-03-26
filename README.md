@@ -16,7 +16,7 @@ Dentro de este repositorio encontraras las siguientes carpetas.
 **Server:** PostgreSQL
 
 ## Modelo Relacional
-![Imagen Modelo](https://ejemplo.com/imagen.png)
+![Imagen Modelo](https://github.com/eluisking/QroDATA/blob/main/imgs/modelo_qro_data.png?raw=true)
 
 
 
